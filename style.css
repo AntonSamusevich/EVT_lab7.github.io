@@ -25,6 +25,10 @@ article {
   background: rgba(16, 233, 215, 0.178);
 }
 
+.article1 {
+  height: 250px;
+}
+
 .container1 {
   display: flex;
   flex-direction: row;
@@ -61,8 +65,4 @@ article {
   flex-wrap: nowrap;
   align-items: stretch;
   flex: 1; 
-}
-
-.article1 {
-  height: 250px;
 }
